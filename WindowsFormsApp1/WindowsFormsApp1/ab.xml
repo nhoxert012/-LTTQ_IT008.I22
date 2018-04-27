@@ -1,0 +1,5 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="Appearance" iskey="true" value="Appearance">
+    <property name="GradientMode">ForwardDiagonal</property>
+  </property>
+</XtraSerializer>
